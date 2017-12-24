@@ -13,7 +13,7 @@ public class DBHelper {
 
 	private static String password = "suger007..";
 	// 数据库地址；数据库名。
-	private static String url = "jdbc:sqlserver://120.79.43.219:899;DatabaseName=saleshop;";
+	private static String url = "jdbc:sqlserver://120.79.43.219:1433;DatabaseName=saleshop;";
 
 	static {
 		try {
